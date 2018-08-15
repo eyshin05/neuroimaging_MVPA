@@ -4,6 +4,7 @@
 ## Introduction
 - I perfomed searchlight analysis on rapid ER design fMRI images.
 - They aren't neat codes, but I uploaded them for a backup purpose.
+- I had many other analyses... but I don't know which codes should be need to perform searchlight analysis. So, I roughly choose some codes 😅
 
 ## Data structure example
 ### Open FMRI Dataset
