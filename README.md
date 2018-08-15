@@ -2,13 +2,12 @@
 2016.04 ~ 2016.06
 
 ## Introduction
-- These codes is wrote for my thesis analysis.
 - I perfomed searchlight analysis on rapid ER design fMRI images.
-- It's not neat codes at all, but I decided to upload on git for a backup purpose.
+- They aren't neat codes, but I uploaded them for a backup purpose.
 
 ## Data structure example
 ### Open FMRI Dataset
-For using `OpenFMRIDataset` function, all files are organized like these:
+For using `OpenFMRIDataset` function, all files were organized like these:
 
 ```
 brain@neurodebian:~/Desktop/data/LAstudy2$ ls
