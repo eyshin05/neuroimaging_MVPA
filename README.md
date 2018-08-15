@@ -233,7 +233,8 @@ cond001.txt  cond002.txt
 ### Searchlight
 For performing searchlight analysis, I organized files like these:
 
-```brain@neurodebian:~/Desktop/data/20160601/bs_add6$ ls
+```
+brain@neurodebian:~/Desktop/data/20160601/bs_add6$ ls
 sub001.hdf5  sub005.hdf5  sub009.hdf5  sub013.hdf5  sub018.hdf5
 sub002.hdf5  sub006.hdf5  sub010.hdf5  sub014.hdf5  sub019.hdf5
 sub003.hdf5  sub007.hdf5  sub011.hdf5  sub015.hdf5  sub022.hdf5
